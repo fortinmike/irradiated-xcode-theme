@@ -1,4 +1,4 @@
-irradiated-xcode-theme
+Irradiated
 ======================
 
 A dark, beautifully coloured theme for Xcode. Take a look:
